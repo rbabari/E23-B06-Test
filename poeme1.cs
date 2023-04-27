@@ -6,7 +6,7 @@ class Poeme1
   {
   Console.WriteLine("Le ciel est bleue ..... ");
   Console.WriteLine("Les oiseaux chantent.....");
-  /// sd;lfhb;sdfhlbn
+  /// s 
   }
 
 }
